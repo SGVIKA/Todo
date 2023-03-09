@@ -5,7 +5,7 @@
 ### Использованные технологии:
 - Kotlin
 - Android Studio
-- Figma: ссылки пока нет
+- Figma: https://www.figma.com/file/zgFV26o6AsqCoOt6s76KQI/Todo?node-id=0-1&t=wNCfKLgVySGJ7y5M-0
 - GitHub
 
 ### Скриншоты проекта:
