@@ -19,3 +19,5 @@
 - отметить задачу/подзадачу как выполненную
 - отображение списка задач
 - отображение списка заметок
+
+Use case: https://docs.google.com/spreadsheets/d/1FkUoIQQFUipR6zx-2B9zXThqzOo5xMSLwhTXT3rhaCY/edit?usp=sharing
